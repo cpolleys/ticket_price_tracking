@@ -3,14 +3,21 @@ from playwright.async_api import async_playwright
 
 url = 'https://www.stubhub.com/boston-red-sox-boston-tickets-8-22-2026/event/159260973/?backUrl=%2Fboston-red-sox-tickets%2Fperformer%2F4322&quantity=2'
 
-async def scrape_stubhub_redsox():
-    results = []
+async def test_json(response):
+    try:
+        print(await response.json())
+    except:
+        pass
 
+async def scrape_stubhub_redsox():
     async with async_playwright() as p:
         browser = await p.chromium.launch()
         page = await browser.new_page()
 
+        page.on('response', lambda response: test_json(response))
         await page.goto(url)
+        
+        
         
         #Write playwright page to html
         #html = await page.content()
