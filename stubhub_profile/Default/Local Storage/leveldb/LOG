@@ -1,0 +1,16 @@
+2026/02/28-23:27:35.281 49c0 Reusing MANIFEST C:\Users\chris\Documents\personal_projects\ticket_price_tracking\stubhub_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/28-23:27:35.286 49c0 Recovering log #11
+2026/02/28-23:27:35.287 49c0 Level-0 table #14: started
+2026/02/28-23:27:35.292 49c0 Level-0 table #14: 14094 bytes OK
+2026/02/28-23:27:35.298 49c0 Delete type=0 #11
+2026/02/28-23:27:35.299 1e98 Compacting 5@0 + 0@1 files
+2026/02/28-23:27:35.307 1e98 Generated table #16@0: 43 keys, 16132 bytes
+2026/02/28-23:27:35.307 1e98 Compacted 5@0 + 0@1 files => 16132 bytes
+2026/02/28-23:27:35.308 1e98 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/28-23:27:35.309 1e98 Delete type=2 #3
+2026/02/28-23:27:35.309 1e98 Delete type=2 #6
+2026/02/28-23:27:35.310 1e98 Delete type=2 #9
+2026/02/28-23:27:35.310 1e98 Delete type=2 #12
+2026/02/28-23:27:35.310 1e98 Delete type=2 #14
+2026/02/28-23:27:44.603 1e98 Level-0 table #18: started
+2026/02/28-23:27:44.611 1e98 Level-0 table #18: 15205 bytes OK

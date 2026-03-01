@@ -1,0 +1,8 @@
+2026/02/28-23:22:02.491 4420 Reusing MANIFEST C:\Users\chris\Documents\personal_projects\ticket_price_tracking\stubhub_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/28-23:22:02.498 4420 Recovering log #7
+2026/02/28-23:22:02.499 4420 Level-0 table #9: started
+2026/02/28-23:22:02.505 4420 Level-0 table #9: 19323 bytes OK
+2026/02/28-23:22:02.511 4420 Delete type=0 #7
+2026/02/28-23:22:11.327 1f4c Level-0 table #12: started
+2026/02/28-23:22:11.342 1f4c Level-0 table #12: 14448 bytes OK
+2026/02/28-23:22:11.347 1f4c Delete type=0 #10

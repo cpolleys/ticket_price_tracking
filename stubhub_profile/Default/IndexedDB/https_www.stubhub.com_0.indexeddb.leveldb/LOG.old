@@ -1,0 +1,26 @@
+2026/02/28-23:22:03.870 6508 Reusing MANIFEST C:\Users\chris\Documents\personal_projects\ticket_price_tracking\stubhub_profile\Default\IndexedDB\https_www.stubhub.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/28-23:22:03.870 6508 Recovering log #50
+2026/02/28-23:22:03.871 6508 Reusing old log C:\Users\chris\Documents\personal_projects\ticket_price_tracking\stubhub_profile\Default\IndexedDB\https_www.stubhub.com_0.indexeddb.leveldb/000050.log 
+2026/02/28-23:22:03.871 6508 Delete type=2 #49
+2026/02/28-23:22:05.003 4ff4 Level-0 table #55: started
+2026/02/28-23:22:05.020 4ff4 Level-0 table #55: 2886 bytes OK
+2026/02/28-23:22:05.021 4ff4 Delete type=0 #50
+2026/02/28-23:22:05.022 6508 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1248 : 1
+2026/02/28-23:22:05.022 6508 Compacting 1@0 + 1@1 files
+2026/02/28-23:22:05.035 6508 Generated table #56@0: 122 keys, 3764 bytes
+2026/02/28-23:22:05.035 6508 Compacted 1@0 + 1@1 files => 3764 bytes
+2026/02/28-23:22:05.036 6508 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/28-23:22:05.037 6508 Delete type=2 #55
+2026/02/28-23:22:05.037 6508 Manual compaction at level-0 from '\x00\x17\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1248 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/28-23:22:06.082 4ff4 Level-0 table #58: started
+2026/02/28-23:22:06.099 4ff4 Level-0 table #58: 610 bytes OK
+2026/02/28-23:22:06.100 4ff4 Delete type=2 #52
+2026/02/28-23:22:06.100 4ff4 Delete type=0 #54
+2026/02/28-23:22:06.101 6508 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\x05' @ 1309 : 1
+2026/02/28-23:22:06.102 6508 Compacting 1@0 + 1@1 files
+2026/02/28-23:22:06.117 6508 Generated table #59@0: 126 keys, 3890 bytes
+2026/02/28-23:22:06.117 6508 Compacted 1@0 + 1@1 files => 3890 bytes
+2026/02/28-23:22:06.118 6508 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/28-23:22:06.119 6508 Delete type=2 #58
+2026/02/28-23:22:06.119 6508 Manual compaction at level-0 from '\x00\x19\x00\x00\x05' @ 1309 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/28-23:22:06.175 4ff4 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
