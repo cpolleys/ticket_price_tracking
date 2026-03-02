@@ -1,36 +1,26 @@
-2026/02/28-23:27:36.699 6b88 Reusing MANIFEST C:\Users\chris\Documents\personal_projects\ticket_price_tracking\stubhub_profile\Default\IndexedDB\https_www.stubhub.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/02/28-23:27:36.699 6b88 Recovering log #57
-2026/02/28-23:27:36.700 6b88 Reusing old log C:\Users\chris\Documents\personal_projects\ticket_price_tracking\stubhub_profile\Default\IndexedDB\https_www.stubhub.com_0.indexeddb.leveldb/000057.log 
-2026/02/28-23:27:36.700 6b88 Delete type=2 #56
-2026/02/28-23:27:38.031 6b88 Level-0 table #62: started
-2026/02/28-23:27:38.034 6b88 Level-0 table #62: 3882 bytes OK
-2026/02/28-23:27:38.035 6b88 Delete type=0 #57
-2026/02/28-23:27:38.036 6b88 Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1a\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1415 : 1
-2026/02/28-23:27:38.036 6b88 Compacting 1@0 + 1@1 files
-2026/02/28-23:27:38.039 6b88 Generated table #63@0: 129 keys, 4174 bytes
-2026/02/28-23:27:38.039 6b88 Compacted 1@0 + 1@1 files => 4174 bytes
-2026/02/28-23:27:38.039 6b88 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/28-23:27:38.040 6b88 Delete type=2 #62
-2026/02/28-23:27:38.040 6b88 Manual compaction at level-0 from '\x00\x1a\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1415 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/02/28-23:27:39.342 6f80 Level-0 table #65: started
-2026/02/28-23:27:39.346 6f80 Level-0 table #65: 619 bytes OK
-2026/02/28-23:27:39.347 6f80 Delete type=2 #59
-2026/02/28-23:27:39.347 6f80 Delete type=0 #61
-2026/02/28-23:27:39.349 6b88 Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x00\x00\x05' @ 1476 : 1
-2026/02/28-23:27:39.349 6b88 Compacting 1@0 + 1@1 files
-2026/02/28-23:27:39.351 6b88 Generated table #66@0: 133 keys, 4170 bytes
-2026/02/28-23:27:39.351 6b88 Compacted 1@0 + 1@1 files => 4170 bytes
-2026/02/28-23:27:39.352 6b88 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/28-23:27:39.353 6b88 Delete type=2 #65
-2026/02/28-23:27:39.354 6b88 Manual compaction at level-0 from '\x00\x1c\x00\x00\x05' @ 1476 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/02/28-23:27:39.356 6b88 Level-0 table #68: started
-2026/02/28-23:27:39.359 6b88 Level-0 table #68: 495 bytes OK
-2026/02/28-23:27:39.361 6b88 Delete type=2 #63
-2026/02/28-23:27:39.361 6b88 Delete type=0 #64
-2026/02/28-23:27:39.362 6b88 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x00\x00\x05' @ 1503 : 0
-2026/02/28-23:27:39.362 6b88 Compacting 1@0 + 1@1 files
-2026/02/28-23:27:39.365 6b88 Generated table #69@0: 131 keys, 4140 bytes
-2026/02/28-23:27:39.365 6b88 Compacted 1@0 + 1@1 files => 4140 bytes
-2026/02/28-23:27:39.365 6b88 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/28-23:27:39.366 6b88 Delete type=2 #68
-2026/02/28-23:27:39.367 6b88 Manual compaction at level-0 from '\x00\x1c\x00\x00\x05' @ 1503 : 0 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/01-19:59:18.209 3bec Reusing MANIFEST C:\Users\chris\Documents\personal_projects\ticket_price_tracking\stubhub_profile\Default\IndexedDB\https_www.stubhub.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/01-19:59:18.210 3bec Recovering log #200
+2026/03/01-19:59:18.210 3bec Reusing old log C:\Users\chris\Documents\personal_projects\ticket_price_tracking\stubhub_profile\Default\IndexedDB\https_www.stubhub.com_0.indexeddb.leveldb/000200.log 
+2026/03/01-19:59:18.210 3bec Delete type=2 #199
+2026/03/01-19:59:19.373 5d98 Level-0 table #205: started
+2026/03/01-19:59:19.375 5d98 Level-0 table #205: 3897 bytes OK
+2026/03/01-19:59:19.376 5d98 Delete type=0 #200
+2026/03/01-19:59:19.376 3bec Manual compaction at level-0 from '\x00V\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00W\x00\x00\x00' @ 0 : 0; will stop at '\x00V\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 5196 : 1
+2026/03/01-19:59:19.376 3bec Compacting 1@0 + 1@1 files
+2026/03/01-19:59:19.379 3bec Generated table #206@0: 322 keys, 12021 bytes
+2026/03/01-19:59:19.379 3bec Compacted 1@0 + 1@1 files => 12021 bytes
+2026/03/01-19:59:19.379 3bec compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/01-19:59:19.380 3bec Delete type=2 #205
+2026/03/01-19:59:19.381 3bec Manual compaction at level-0 from '\x00V\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 5196 : 1 .. '\x00W\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/01-19:59:20.261 5d98 Level-0 table #208: started
+2026/03/01-19:59:20.264 5d98 Level-0 table #208: 619 bytes OK
+2026/03/01-19:59:20.265 5d98 Delete type=2 #202
+2026/03/01-19:59:20.265 5d98 Delete type=0 #204
+2026/03/01-19:59:20.266 3bec Manual compaction at level-0 from '\x00W\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00X\x00\x00\x00' @ 0 : 0; will stop at '\x00X\x00\x00\x05' @ 5257 : 1
+2026/03/01-19:59:20.266 3bec Compacting 1@0 + 1@1 files
+2026/03/01-19:59:20.268 3bec Generated table #209@0: 326 keys, 12071 bytes
+2026/03/01-19:59:20.268 3bec Compacted 1@0 + 1@1 files => 12071 bytes
+2026/03/01-19:59:20.269 3bec compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/01-19:59:20.269 3bec Delete type=2 #208
+2026/03/01-19:59:20.270 3bec Manual compaction at level-0 from '\x00X\x00\x00\x05' @ 5257 : 1 .. '\x00X\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/01-19:59:20.313 3bec Manual compaction at level-0 from '\x00X\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00Y\x00\x00\x00' @ 0 : 0; will stop at (end)
